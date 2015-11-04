@@ -38,12 +38,12 @@ var server = http.createServer(function (req, res) {
     end_date:'至今',
     company:'杭州蔓藤网络科技公司',
     position:'Web开发工程师',
-    summary:'电商公司，主要负责管理后台开发，以及前端页面开发',
+    summary:'电商公司，前后台开发',
     hignlights:[
       "开发了商城的基于LBS的广告推送后台",
       "开发了爬取京东商城商品页并转换为公司标准商品的爬虫以及商品标准化管理后台",
-      "Angular+Ionic 重构了移动端热卖入口，逐步取代Native商城,可用作微信商城",
-      "参与了 Angular+Ionic 重构了开源软件 ECSHOP移动版,亦可兼容微信商城"
+      "Angular+Ionic 重构了移动端热卖入口，逐步取代Native商城",
+      "参与了 Angular+Ionic 重构了开源软件 ECSHOP移动版"
     ]
   }]
 
